@@ -11,7 +11,8 @@
 - **数据库**: MySQL 8.0
 - **连接池**: Druid 1.2.16
 - **安全**: Spring Security
-- **工具库**: Lombok, Hutool, FastJSON
+- **工具库**: Lombok, Hutool 5.8.21 (安全版本), FastJSON
+- **数据库驱动**: MySQL Connector/J 8.2.0 (安全版本)
 - **JDK**: 1.8+
 
 ## 项目结构
